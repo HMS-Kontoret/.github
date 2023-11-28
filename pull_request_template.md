@@ -19,5 +19,8 @@ Please describe how you verify your changes. Provide instructions so QA can repr
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
+- [ ] My code follows the style guidelines of our organization
 - [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have utilised feature flagging where appropriate
+- [ ] I have created / updated unit tests to verify my changes
+- [ ] I have created or updated relevant documentation
