@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+> **⚠️ Important:** Before proposing a new dependency, please review our [Open Source Software Usage Guidelines](../../docs/open-source-guidelines.md) to ensure compliance with licensing requirements and security standards.
+
 ### Introduction:
 Provide a brief introduction to the proposed dependency.
 
@@ -24,6 +26,9 @@ Highlight specific features or functionalities of the dependency that align with
 
 ### Cost Analysis:
 Provide an estimate of the costs associated with implementing and maintaining this dependency. Include licensing fees, subscription costs, or any other financial considerations.
+
+### License Type:
+**License Compatibility:** Confirm this license is approved per our [OSS Usage Guidelines](../../docs/open-source-guidelines.md)
 
 ### Risks and Mitigations:
 Identify potential risks or drawbacks associated with this dependency and propose mitigation strategies to address them.
